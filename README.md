@@ -11,4 +11,4 @@ API Practice
 Following Kessie's Medium tutorial to analyze playlist traits, and display them using a Radar Graph.
 
 
-![Birthday Radar!](birthday-radar.png)
+![Birthday Radar!](birthday_radar.jpg)
